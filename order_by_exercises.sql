@@ -1,5 +1,5 @@
 
--- Create a new file called order_by_exercises.sql and copy in the contents of your where_exercises.sql.
+-- Create a new file called order_by_exercises.sql.sql and copy in the contents of your where_exercises.sql.sql.
 -- Modify your first query to order by first name. The first result should be Irena Reutenauer and the last result should be Vidya Simmen.
 
 SELECT * FROM employees
